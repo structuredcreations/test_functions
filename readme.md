@@ -7,4 +7,4 @@ part 1:
 4. select local folder to store the code
 5. then it will open the new vscode session
 
-6. 
+6. step 6 is done manually via github to test the auto pull synch function in vscode
